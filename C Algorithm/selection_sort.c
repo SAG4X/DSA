@@ -26,10 +26,12 @@ void selection_sort(int array[],int n){
 	
 	int i,j;
 	for(i=0;i<n-1;i++){
+		int min=i;
 		for(j=i+1;j<n;j++){
 			if(array[j]<array[i]){
-				swap(&array[i],&array[j]);
+				min=j;
 			}
 		}
+	swap(&array[min],&array[i]);
 	}
 }
