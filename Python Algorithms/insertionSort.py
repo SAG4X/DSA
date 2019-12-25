@@ -1,7 +1,5 @@
 def insertionSort(array):
     n=len(array)
-    i=0
-    j=0
     for i in range(1,n):
         temp=array[i]
         print(temp)

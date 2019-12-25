@@ -14,7 +14,6 @@ void insertion_sort(int array[],int n){
 	
 	for(i=1;i<n;i++){
 		int temp=array[i];
-		printf("temp=%d \n",temp);
 		for(j=i;j>0 && temp<array[j-1];j--){
 			array[j]=array[j-1];
 			
