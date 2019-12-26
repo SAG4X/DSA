@@ -21,7 +21,7 @@ void insertion_sort(int array[],int n){
 		array[j]=temp;
 	}
 	
-	for(i=0;i<n;i++){		//displaying procedure
+	for(i=0;i<n;i++){
 		printf("%d ",array[i]);
 	}
 	
