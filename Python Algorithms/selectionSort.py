@@ -11,5 +11,5 @@ def selectionSort(array):
         array[i]=temp
     return array
 
-a=[1,2,4,3,0,6,7,8,12,11] #edit as needed
+a=[1,2,4,3,0,6,7,8,12,11,66,44] #edit as needed
 print(selectionSort(a))
