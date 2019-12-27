@@ -6,9 +6,7 @@ def selectionSort(array):
         for j in range(i,n):
             if(array[j]<array[i]):
                 min=j
-        temp=array[min]       #swapping process
-        array[min]=array[i]
-        array[i]=temp
+        array[min],array[i]=array[i],array[min] #swapping process
     return array
 
 a=[1,2,4,3,0,6,7,8,12,11,66,44] #edit as needed
