@@ -1,12 +1,12 @@
 #include<stdio.h>
-
+// quick sort is a sorting algorithms which has use divide and conquor method
 void swap(int *x,int *y){
 	
 	int temp=*x;
 	*x=*y;
 	*y=temp;
 }
-
+//dividing
 int partition(int array[],int low,int high){
 	
 	int pivot=array[high];		//preferred position for pivot is last element
@@ -24,7 +24,7 @@ int partition(int array[],int low,int high){
 	
 	return (i+1);			//returns pivot position
 }
-
+//conqouring
 void quick_sort(int array[],int low,int high){
 	
 	if(low<high){
