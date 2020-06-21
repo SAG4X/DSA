@@ -1,3 +1,3 @@
 ## String matching
 
-### large file ing=tegration with all string matching algorithms
+### large file integration with all string matching algorithms
