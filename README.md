@@ -22,5 +22,9 @@ Please be kind to add a proper description about the pull request.
 - Sorting Algorithms
 - Optimisation Algorithms
 - Searching Algorithms
+- Linear Programming
+- Greedy Algorithms
+- Ad hocs
+- Recusrsion
 
 
