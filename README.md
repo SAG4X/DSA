@@ -24,6 +24,7 @@ Please be kind to add a proper description about the pull request.
 - Searching Algorithms
 - Linear Programming
 - Greedy Algorithms
+- Dynamic Programming Problems
 - Ad hocs
 - Recusrsion
 
