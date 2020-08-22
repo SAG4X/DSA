@@ -15,8 +15,21 @@ Please be kind to add a proper description about the pull request.
 - Arrays
 - Stack
 - Queue
+- Linked List
+  * Single Linked List
+  * Circular Linked List
+  * Doubly Linked List
+  * Circular Doubly Linked List
 - Trees
+  * Binary Search Trees(BST)
+  * AVL Trees
+  * Red Black Trees
+  * B Trees
+  * B+ Trees
 - Graphs
+  * Direct Graphs
+  * Undirected Graphs
+  * Multi Graphs
 
 # Algorithms
 - Sorting Algorithms
