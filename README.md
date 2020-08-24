@@ -36,7 +36,16 @@ Please be kind to add a proper description about the pull request.
 - Optimisation Algorithms
 - Searching Algorithms
 - Linear Programming
-- Greedy Algorithms
+- Greedy Algorithm
+  * 0/1 knapsack problem
+  * fractional knapsack
+  * coin change problem 
+  * scheduling problem
+  * double helix problem
+  * huffman coding
+  * single source shorest path
+  * bellman-ford algirthom
+  * minimum spanning trees
 - Dynamic Programming Problems
 - Ad hocs
 - Recusrsion
