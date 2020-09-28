@@ -48,6 +48,6 @@ Please be kind to add a proper description about the pull request.
   * minimum spanning trees
 - Dynamic Programming Problems
 - Ad hocs
-- Recusrsion
+- Recursion
 
 
