@@ -11,6 +11,8 @@ To contribute :
 To contribute you can fork the repo and create a new branch from your name and added a pull request
 Please be kind to add a proper description about the pull request.
 
+For more details refer CONTRIBUTING.md
+
 # Data Structures
 - Arrays
 - Stack
