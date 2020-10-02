@@ -1,0 +1,37 @@
+2020.10.02 09:25:10 INFO  started: Metals version 0.9.4 in workspace 'E:\GitHub\sahanDSA\Data Structures\Scala' for client vscode.
+2020.10.02 09:25:11 INFO  time: initialize in 1.16s
+2020.10.02 09:25:13 WARN  no build tool detected in workspace 'E:\GitHub\sahanDSA\Data Structures\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.02 09:25:15 INFO  no build target: using presentation compiler with only scala-library
+2020.10.02 09:25:15 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:28:59 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:30:00 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:30:23 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:31:54 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:32:40 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:33:45 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:34:51 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:35:13 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:36:44 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:37:27 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:37:47 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:39:36 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:40:12 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:40:25 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:40:51 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:41:08 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:41:22 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:41:57 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:42:37 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
+2020.10.02 16:42:47 WARN  no build tool detected in workspace 'E:\GitHub\sahanDSA\Data Structures\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.02 16:42:47 WARN  no build tool detected in workspace 'E:\GitHub\sahanDSA\Data Structures\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1148)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	... 2 more
+2020.10.02 16:43:02 WARN  no build target for: E:\GitHub\sahanDSA\Data Structures\Scala\array_op.scala
