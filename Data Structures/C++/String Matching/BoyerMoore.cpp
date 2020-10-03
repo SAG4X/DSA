@@ -16,8 +16,10 @@ void bmSearch(string pattern, string text) {
     for(int i=0; i<n; ++i) 
         tb[pattern[i]] = i;
 
+    // Searching
     while(i<h) {
         if(text[i]==pattern[j]) {
+            // Report matching
             if(j==0)
                 cout << i << '\n';
             i--;
