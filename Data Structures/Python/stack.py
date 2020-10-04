@@ -24,7 +24,7 @@ def peek(stack):
 
 	 
 stack = createStack()
-c=input("enter your choice (push,pop):")
+c=input("enter your choice (push,pop,done):")
 while(c!='done'):
         
         if(c=='push'):
