@@ -52,4 +52,6 @@ For more details refer CONTRIBUTING.md
 - Ad hocs
 - Recursion
 
+### Need to Add some new ideas to the repository
 
+Of course you are welcome to add new ideas by opening an issue in the issue section and push a PR to it
