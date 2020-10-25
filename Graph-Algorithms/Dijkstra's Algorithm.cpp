@@ -25,7 +25,7 @@ struct Node
     vector<int> adj;
     vector<int> weight;
 };
-Node graf[MAX_N];
+Node graph[MAX_N];
 bool mark[MAX_N];
 
 struct pq_entry
@@ -38,8 +38,8 @@ struct pq_entry
     }
 };
 
-//Dijkstrin algoritam za nalazenje duzina najkracih puteva iz jednog izvora u grafu
-//Slozenost: O((V+E)log V)
+//Dijkstra's shortest path
+//runtime: O((V+E)log V)
 
 inline void Dijkstra(int source)
 {
@@ -49,12 +49,12 @@ inline void Dijkstra(int source)
     {
         if (i == source)
         {
-            graf[i].dist = 0;
+            graph[i].dist = 0;
             P.node = i;
             P.dist = 0;
             pq.push(P);
         }
-        else graf[i].dist = INF;
+        else graph[i].dist = INF;
     }
     while (!pq.empty())
     {
@@ -62,16 +62,16 @@ inline void Dijkstra(int source)
         pq.pop();
         int nod = curr.node;
         int dis = curr.dist;
-        for (int i=0;i<graf[nod].adj.size();i++)
+        for (int i=0;i<graph[nod].adj.size();i++)
         {
-            if (!mark[graf[nod].adj[i]])
+            if (!mark[graph[nod].adj[i]])
             {
-                int nextNode = graf[nod].adj[i];
-                if (dis + graf[nod].weight[i] < graf[nextNode].dist)
+                int nextNode = graph[nod].adj[i];
+                if (dis + graph[nod].weight[i] < graph[nextNode].dist)
                 {
-                    graf[nextNode].dist = dis + graf[nod].weight[i];
+                    graph[nextNode].dist = dis + graph[nod].weight[i];
                     P.node = nextNode;
-                    P.dist = graf[nextNode].dist;
+                    P.dist = graph[nextNode].dist;
                     pq.push(P);
                 }
             }
@@ -84,28 +84,28 @@ int main()
 {
     n = 4;
     
-    graf[0].adj.push_back(1);
-    graf[0].weight.push_back(5);
-    graf[1].adj.push_back(0);
-    graf[1].weight.push_back(5);
+    graph[0].adj.push_back(1);			//connect	
+    graph[0].weight.push_back(5);		//weight
+    graph[1].adj.push_back(0);			//vice versa as both ways
+    graph[1].weight.push_back(5);
     
-    graf[1].adj.push_back(2);
-    graf[1].weight.push_back(5);
-    graf[2].adj.push_back(1);
-    graf[2].weight.push_back(5);
+    graph[1].adj.push_back(2);
+    graph[1].weight.push_back(5);
+    graph[2].adj.push_back(1);
+    graph[2].weight.push_back(5);
     
-    graf[2].adj.push_back(3);
-    graf[2].weight.push_back(5);
-    graf[3].adj.push_back(2);
-    graf[3].weight.push_back(5);
+    graph[2].adj.push_back(3);
+    graph[2].weight.push_back(5);
+    graph[3].adj.push_back(2);
+    graph[3].weight.push_back(5);
     
-    graf[3].adj.push_back(1);
-    graf[3].weight.push_back(6);
-    graf[1].adj.push_back(3);
-    graf[1].weight.push_back(6);
+    graph[3].adj.push_back(1);
+    graph[3].weight.push_back(6);
+    graph[1].adj.push_back(3);
+    graph[1].weight.push_back(6);
     
     Dijkstra(0);
     
-    printf("%d\n",graf[3].dist);
+    printf("%d\n",graph[3].dist);
     return 0;
 }
