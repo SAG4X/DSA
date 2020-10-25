@@ -11,6 +11,8 @@ To contribute :
 To contribute you can fork the repo and create a new branch from your name and added a pull request
 Please be kind to add a proper description about the pull request.
 
+For more details refer CONTRIBUTING.md
+
 # Data Structures
 - Arrays
 - Stack
@@ -50,4 +52,6 @@ Please be kind to add a proper description about the pull request.
 - Ad hocs
 - Recursion
 
+### Need to Add some new ideas to the repository
 
+Of course you are welcome to add new ideas by opening an issue in the issue section and push a PR to it
