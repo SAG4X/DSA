@@ -55,3 +55,13 @@ For more details refer CONTRIBUTING.md
 ### Need to Add some new ideas to the repository
 
 Of course you are welcome to add new ideas by opening an issue in the issue section and push a PR to it
+
+### Content Table
+##### Sorting
+Section/Language | C  | C++ | Java | Python | Javascript | Scala |
+-----------------|----|-----|------|--------|------------|-------|
+Bubble Sorting   |-[x]| -[x]|  -[]    |        |            |       |
+Selection Sorting|-[x]| -[x]|  -[]    |        |            |       |
+Binary Sorting   |-[x]| -[x]|  -[]    |        |            |       |
+Quick Sorting    |-[x]| -[x]|  -[]    |        |            |       |
+Merge Sorting    |-[] | -[x]|  -[]    |        |            |       |
