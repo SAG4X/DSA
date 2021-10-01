@@ -73,8 +73,8 @@ Merge Sorting    |   |✔️  |     |  ✔️  |     |       |
 #### Searching
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
 -----------------|----|-----|------|--------|------------|-------|
-Naive Search(Brute Force)  |✔️|✔️|    |     |            |       |
-Linear Search              |✔️|✔️|    |    |            |       |
+Naive Search(Brute Force)  |✔️|✔️|    | ✔️    |            |       |
+Linear Search              |✔️|✔️|    | ✔️   |            |       |
 Binary Search              |   |✔️| ✔️| ✔️ |            |       |
 
 #### Recursion
