@@ -1,19 +1,7 @@
-## String matching
+## Searching matching
 
-Basically finding of a occurance pattern within a text where text and pattern are strings of characters with text >= pattern
-
-### Applications
-
-    * Content Searching
-    * Editing
-    * Text Processing
-    * Signal Processing
-    * Virus Scanning
-    * Bioinformatics(DNA Strings)
+Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored.
 
 ### Algorithms
-
-    * Naive String Matching (Brute-Force Algorithm)
-    * Knuth-Morris-Pratt(KMP) Algorithm
-    * Rabin Karp Algorithm
-    * Boyer Moore Algorithm
+- Linear Search
+- Binary Search
