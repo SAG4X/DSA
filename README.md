@@ -71,11 +71,11 @@ Quick Sorting    |✔️ |✔️  |     |  ✔️ |     |       |
 Merge Sorting    |   |✔️  |     |  ✔️  |     |       |
 
 #### Searching
-Section/Language | C  | C++ | Java | Python | Javascript | Scala |
------------------|----|-----|------|--------|------------|-------|
-Naive Search(Brute Force)  |✔️|✔️|    |     |            |       |
-Linear Search              |✔️|✔️|    |    |            |       |
-Binary Search              |   |✔️| ✔️| ✔️ |            |       |
+Section/Language | C  | C++ | Java | Python | Javascript | Scala | Go |
+-----------------|----|-----|------|--------|------------|-------|------|
+Naive Search(Brute Force)  |✔️|✔️|    | ✔️    |            |       | |
+Linear Search              |✔️|✔️|    | ✔️   |            |       |✔️|
+Binary Search              |   |✔️| ✔️| ✔️ |            |       |✔️|
 
 #### Recursion
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
