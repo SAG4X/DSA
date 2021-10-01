@@ -59,18 +59,28 @@ For more details refer CONTRIBUTING.md
 Of course you are welcome to add new ideas by opening an issue in the issue section and push a PR to it
 
 ### Content Table
-##### Sorting
+#### Sorting
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
 -----------------|----|-----|------|--------|------------|-------|
-Bubble Sorting   |✔️ |✔️  |   | ✔️    | ✔️           |       |
-Selection Sorting|✔️ |✔️  |     |        |  ✔️          |       |
-Binary Sorting   |✔️ |✔️  |     |        |   ✔️         |       |
-Quick Sorting    |✔️ |✔️  |     |        |    ✔️        |       |
-Merge Sorting    |   |✔️  |     |        |   ✔️         |       |
+Bubble Sorting   |✔️ |✔️  |  ✔️ |  ✔️ |    |       |
+Selection Sorting|✔️ |✔️  |     |  ✔️ |     |       |
+Binary Sorting   |✔️ |✔️  |     |  ✔️ |     |       |
+Quick Sorting    |✔️ |✔️  |     |  ✔️ |     |       |
+Merge Sorting    |   |✔️  |     |  ✔️  |     |       |
 
-##### Searching
+#### Searching
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
 -----------------|----|-----|------|--------|------------|-------|
-Naive Search(Brute Force)  |✔️|✔️|   |        |            |       |
-Linear Search              |✔️|✔️|    |        |            |       |
+Naive Search(Brute Force)  |✔️|✔️|    |     |            |       |
+Linear Search              |✔️|✔️|    |    |            |       |
 Binary Search              |   |✔️| ✔️| ✔️ |            |       |
+
+#### Recursion
+Section/Language | C  | C++ | Java | Python | Javascript | Scala |
+-----------------|----|-----|------|--------|------------|-------|
+Fibonacci        |✔️ |✔️|    |     |            |       |
+Factorial        |✔️|✔️|    |    |            |       |
+Tower of Hanoi   |   |  |    |    |            |       |
+GCD              |   |  |    |    |            |       |
+LCM              |  |    |    |            |       |
+Pacal Traingle   |  |    |    |            |       |
