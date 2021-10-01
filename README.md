@@ -78,9 +78,9 @@ Binary Search              |   |✔️| ✔️| ✔️ |            |       |
 #### Recursion
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
 -----------------|----|-----|------|--------|------------|-------|
-Fibonacci        |✔️ |✔️|    |     |            |       |
-Factorial        |✔️|✔️|    |    |            |       |
-Tower of Hanoi   |   |  |    |    |            |       |
-GCD              |   |  |    |    |            |       |
-LCM              |  |    |    |            |       |
-Pacal Traingle   |  |    |    |            |       |
+Fibonacci        |✔️ |  |    |✔️ |            |       |
+Factorial        |✔️ |  |    | ✔️ |            |       |
+Tower of Hanoi   |✔️ |  |    |    |            |       |
+GCD              |✔️ |  |    |    |            |       |
+LCM              |   |    |    |            |       |
+Pacal Traingle   |✔️ |    |    |            |       |
