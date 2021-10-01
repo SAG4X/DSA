@@ -1,4 +1,4 @@
-## String matching
+## String Matching Algorithms
 
 Basically finding of a occurance pattern within a text where text and pattern are strings of characters with text >= pattern
 
@@ -11,13 +11,9 @@ Basically finding of a occurance pattern within a text where text and pattern ar
     * Virus Scanning
     * Bioinformatics(DNA Strings)
 
-### Algorithms type
+### Algorithms
 
-    * Cryptography algorithms
-    * Dynamic programming algorithms
-    * Graph algorithms
-    * Greedy algorithms
-    * Searching algorithms
-    * Sorting algorithms
-    * String Matching algorithms
-    * Recursive algorithms
+    * Naive String Matching (Brute-Force Algorithm)
+    * Knuth-Morris-Pratt(KMP) Algorithm
+    * Rabin Karp Algorithm
+    * Boyer Moore Algorithm
