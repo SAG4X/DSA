@@ -1,6 +1,6 @@
-## String matching
+## Sorting Algorithm
 
-Basically finding of a occurance pattern within a text where text and pattern are strings of characters with text >= pattern
+A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements.
 
 ### Applications
 
@@ -13,12 +13,9 @@ Basically finding of a occurance pattern within a text where text and pattern ar
 
 ### Algorithms
 
-    * Naive String Matching (Brute-Force Algorithm)
-    * Knuth-Morris-Pratt(KMP) Algorithm
-    * Rabin Karp Algorithm
-    * Boyer Moore Algorithm
-
-### About the Code
-
-    * C++ :- String Matching Algorithms have been implemented based on phi number sequence and search birthday inside that file
-        eg:- 1998/06/08 become 980608 as the pattern for searching
+    * Selection Sort
+    * Bubble Sort
+    * Insertion Sort
+    * Merge Sort
+    * Quick Sort
+    * Heap Sort
