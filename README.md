@@ -1,6 +1,8 @@
 # DSA SAG4X
 Data Structures and Algorithms used in Day Today Life
 
+[![GitHub issues by-label][hacktoberfest-badge]][hacktoberfest-link]
+
 > Please follow the below details 
 
 # How to Contribute
@@ -71,8 +73,8 @@ Merge Sorting    |   |✔️  |     |  ✔️  |     |       |
 #### Searching
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
 -----------------|----|-----|------|--------|------------|-------|
-Naive Search(Brute Force)  |✔️|✔️|    |     |            |       |
-Linear Search              |✔️|✔️|    |    |            |       |
+Naive Search(Brute Force)  |✔️|✔️|    | ✔️    |            |       |
+Linear Search              |✔️|✔️|    | ✔️   |            |       |
 Binary Search              |   |✔️| ✔️| ✔️ |            |       |
 
 #### Recursion
