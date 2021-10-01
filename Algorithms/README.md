@@ -1,24 +1,13 @@
-## String matching
+## Algorithms
 
-Basically finding of a occurance pattern within a text where text and pattern are strings of characters with text >= pattern
+An algorithm is a set of instructions for solving a problem or accomplishing  task. Every computerized device uses algorithms, which cut the time required to do things manually.
 
-### Applications
-
-    * Content Searching
-    * Editing
-    * Text Processing
-    * Signal Processing
-    * Virus Scanning
-    * Bioinformatics(DNA Strings)
-
-### Algorithms
-
-    * Naive String Matching (Brute-Force Algorithm)
-    * Knuth-Morris-Pratt(KMP) Algorithm
-    * Rabin Karp Algorithm
-    * Boyer Moore Algorithm
-
-### About the Code
-
-    * C++ :- String Matching Algorithms have been implemented based on phi number sequence and search birthday inside that file
-        eg:- 1998/06/08 become 980608 as the pattern for searching
+### Algorithm types
+- Cryptography algorithms
+- Dynamic programming algorithms
+- Graph algorithms
+- Greedy algorithms
+- Searching algorithms
+- Sorting algorithms
+- String Matching algorithms
+- Recursive algorithms
