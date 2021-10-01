@@ -7,3 +7,5 @@ Cryptographic algorithms are used for important tasks such as data encryption, a
 - Birthday Attack
 - Caesar Cipher
 - AES Encryption/Decryption
+- Pollard's rho algorithm
+- Pollard's p-1 algorithm
