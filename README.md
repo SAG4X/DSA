@@ -51,6 +51,8 @@ For more details refer CONTRIBUTING.md
 - Dynamic Programming Problems
 - Ad hocs
 - Recursion
+- Cryptographic alogorithms
+- Permutation and number theory
 
 ### Need to Add some new ideas to the repository
 
