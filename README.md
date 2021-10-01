@@ -1,7 +1,7 @@
 # DSA SAG4X
 Data Structures and Algorithms used in Day Today Life
 
-[![GitHub issues by-label]][hacktoberfest-badge]][hacktoberfest-link]
+[![GitHub issues by-label][hacktoberfest-badge]][hacktoberfest-link]
 
 > Please follow the below details 
 
