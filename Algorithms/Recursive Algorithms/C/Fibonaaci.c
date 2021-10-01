@@ -5,6 +5,7 @@
 #include <assert.h>
 #include <limits.h>
 #include <stdbool.h>
+
 int fib(int n){
     if(n==1)
         return 1;
@@ -14,27 +15,16 @@ int fib(int n){
         return fib(n-1)+fib(n-2);
     }    
 }
-int getfib(int n){
-    int i,sum=0,fibo_value;
-    for(i=0;i<n;i++){
-         fibo_value=fib(i);
-        if(fibo_value%2==0 && fibo_value<=n)
-            sum+=fibo_value;
-    }
-    return sum;
-}
+
 int main(){
-    int t,i;
-    int a0;
-    int sum; 
+    int t, i;
+    printf("Enter a number: ");
     scanf("%d",&t);
-    for(a0 = 0; a0 <= t; a0++){
+    printf("[ ");
+    for(i = 0; i<t; i++){
         int n; 
-        //scanf("%d",&n);
-        //sum=getfib(a0++);
-        printf("%d\n",fib(a0));
+        printf("%d, ",fib(i));
     }
+    printf("\b\b]");
     return 0;
 }
-
-
