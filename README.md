@@ -62,13 +62,13 @@ Of course you are welcome to add new ideas by opening an issue in the issue sect
 
 ### Content Table
 #### Sorting
-Section/Language | C  | C++ | Java | Python | Javascript | Scala |
------------------|----|-----|------|--------|------------|-------|
-Bubble Sorting   |✔️ |✔️  |  ✔️ |  ✔️ |    |       |
-Selection Sorting|✔️ |✔️  |     |  ✔️ |     |       |
-Binary Sorting   |✔️ |✔️  |     |  ✔️ |     |       |
-Quick Sorting    |✔️ |✔️  |     |  ✔️ |     |       |
-Merge Sorting    |   |✔️  |     |  ✔️  |     |       |
+Section/Language | C  | C++ | Java | Python | Javascript | Scala | Go |
+-----------------|----|-----|------|--------|------------|-------|----|
+Bubble Sorting   |✔️ |✔️  |  ✔️ |  ✔️ |    |       |✔️|
+Selection Sorting|✔️ |✔️  |     |  ✔️ |     |       ||
+Binary Sorting   |✔️ |✔️  |     |  ✔️ |     |       ||
+Quick Sorting    |✔️ |✔️  |     |  ✔️ |     |       ||
+Merge Sorting    |   |✔️  |     |  ✔️  |     |       ||
 
 #### Searching
 Section/Language | C  | C++ | Java | Python | Javascript | Scala |
