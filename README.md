@@ -65,8 +65,8 @@ Of course you are welcome to add new ideas by opening an issue in the issue sect
 Section/Language | C  | C++ | Java | Python | Javascript | Scala | Go |
 -----------------|----|-----|------|--------|------------|-------|----|
 Bubble Sorting   |✔️ |✔️  |  ✔️ |  ✔️ |    |       |✔️|
-Selection Sorting|✔️ |✔️  |     |  ✔️ |     |       ||
-Binary Sorting   |✔️ |✔️  |     |  ✔️ |     |       ||
+Selection Sorting|✔️ |✔️  |     |  ✔️ |     |       |✔️|
+Insertion Sorting   |✔️ |✔️  |     |  ✔️ |     |       |✔️|
 Quick Sorting    |✔️ |✔️  |     |  ✔️ |     |       ||
 Merge Sorting    |   |✔️  |     |  ✔️  |     |       ||
 
