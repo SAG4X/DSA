@@ -78,11 +78,12 @@ Linear Search              |✔️|✔️|    | ✔️   |            |       |�
 Binary Search              |   |✔️| ✔️| ✔️ |            |       |✔️|
 
 #### Recursion
-Section/Language | C  | C++ | Java | Python | Javascript | Scala |
------------------|----|-----|------|--------|------------|-------|
+Section/Language | C  | C++ | Java | Python | Javascript | Scala | Go |
+-----------------|----|-----|------|--------|------------|-------| -- |
 Fibonacci        |✔️ |  |    |✔️ |            |       |
 Factorial        |✔️ |  |    | ✔️ |            |       |
 Tower of Hanoi   |✔️ |  |    |    |            |       |
 GCD              |✔️ |  |    |    |            |       |
 LCM              |   |    |    |            |       |
 Pacal Traingle   |✔️ |    |    |            |       |
+Binary Search    |    |      |     |        |            |       | ✔️ |
