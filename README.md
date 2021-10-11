@@ -82,7 +82,7 @@ Section/Language | C  | C++ | Java | Python | Javascript | Scala | Go |
 -----------------|----|-----|------|--------|------------|-------| -- |
 Fibonacci        |✔️ |  |    |✔️ |            |       |
 Factorial        |✔️ |  |    | ✔️ |            |       |        | ✔️ |
-Tower of Hanoi   |✔️ |  |    |    |            |       |        | ✔️ |
+Tower of Hanoi   |✔️ |  |    |    |            |       |        | ✔️ |  
 GCD              |✔️ |  |    |    |            |       |        | ✔️ |
 LCM              |   |    |    |            |       |
 Pacal Traingle   |✔️ |    |    |            |       |
