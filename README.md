@@ -81,8 +81,8 @@ Binary Search              |   |✔️| ✔️| ✔️ |            |       |✔
 Section/Language | C  | C++ | Java | Python | Javascript | Scala | Go |
 -----------------|----|-----|------|--------|------------|-------| -- |
 Fibonacci        |✔️ |  |    |✔️ |            |       |
-Factorial        |✔️ |  |    | ✔️ |            |       |
-Tower of Hanoi   |✔️ |  |    |    |            |       |     
+Factorial        |✔️ |  |    | ✔️ |            |       |        | ✔️ |
+Tower of Hanoi   |✔️ |  |    |    |            |       |        | ✔️ |
 GCD              |✔️ |  |    |    |            |       |        | ✔️ |
 LCM              |   |    |    |            |       |
 Pacal Traingle   |✔️ |    |    |            |       |
